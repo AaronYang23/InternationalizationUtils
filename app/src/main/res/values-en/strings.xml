@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InternationalizationUtils</string>
+
+
+    <string name="example">Hello，World！</string>
+    <string name="btn1">Auto</string>
+    <string name="btn2">zh-CN</string>
+    <string name="btn3">en-</string>
+</resources>
